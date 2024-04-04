@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KBU_2024_JAVA.iml" filepath="$PROJECT_DIR$/KBU_2024_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/W3/W3.iml" filepath="$PROJECT_DIR$/W3/W3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4/W4.iml" filepath="$PROJECT_DIR$/W4/W4.iml" />
     </modules>
   </component>
 </project>
