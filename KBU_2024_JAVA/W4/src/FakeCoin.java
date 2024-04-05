@@ -1,8 +1,8 @@
 public class FakeCoin {
     public static void main(String[] args) {
 
-        int coinA = 10, coinB = 10, coinD = 10, coinE = 10, coinF = 10, coinG = 10,  coinH = 10;
-        int coinC = 11; // 가짜코인
+        int coinA = 10, coinB = 10, coinD = 10, coinC = 10, coinF = 10, coinG = 10,  coinE = 10;
+        int coinH = 11; // 가짜코인
 
         if((coinA + coinB + coinC + coinD) > (coinE + coinF + coinG + coinH)){
             if ((coinA + coinB) > (coinC + coinD)){
