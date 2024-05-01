@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0cda4ff-f9f2-48b0-9820-83e6389e58d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../W4/W4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../W2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/W3/W3_examples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/W3/W3_examples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W5/src/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W5/src/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/W5/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/W5/Help.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,15 +18,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/dahyoun/Documents/coding/JAVA/KBU_2024_JAVA/W3",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dahyoun/Documents/coding/JAVA/KBU_2024_JAVA/W3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711859418757</updated>
       <workItem from="1711859419811" duration="9000" />
+      <workItem from="1714452477822" duration="1000" />
     </task>
     <servers />
   </component>
