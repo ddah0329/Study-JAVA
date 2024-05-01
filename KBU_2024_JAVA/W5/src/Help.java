@@ -6,16 +6,18 @@ public class Help {
 
         String select;
 
-        System.out.println("1. if");
-        System.out.println("2. switch");
-        System.out.println("3. for");
-        System.out.println("4. while");
-        System.out.println("5. do-while");
-        System.out.println("q. quit");
 
         boolean close = true;
 
         while(close) { // 항상 반복
+            System.out.println();
+
+            System.out.println("1. if");
+            System.out.println("2. switch");
+            System.out.println("3. for");
+            System.out.println("4. while");
+            System.out.println("5. do-while");
+            System.out.println("q. quit");
             System.out.print("번호를 선택하세요: ");
             select = sc.nextLine();
 
