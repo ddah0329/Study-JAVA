@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW/GameCharacter/GameCharacter.iml" filepath="$PROJECT_DIR$/HW/GameCharacter/GameCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
       <module fileurl="file://$PROJECT_DIR$/KBU_2024_JAVA.iml" filepath="$PROJECT_DIR$/KBU_2024_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/W11/SimpleShape/SimpleShape.iml" filepath="$PROJECT_DIR$/W11/SimpleShape/SimpleShape.iml" />
-      <module fileurl="file://$PROJECT_DIR$/W10/SimpleStudent/SimpleStudent.iml" filepath="$PROJECT_DIR$/W10/SimpleStudent/SimpleStudent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/W10/W10.iml" filepath="$PROJECT_DIR$/W10/W10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/W11/W11.iml" filepath="$PROJECT_DIR$/W11/W11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/SimpleStudent/SimpleStudent.iml" filepath="$PROJECT_DIR$/HW/SimpleStudent/SimpleStudent.iml" />
       <module fileurl="file://$PROJECT_DIR$/W3/W3.iml" filepath="$PROJECT_DIR$/W3/W3.iml" />
       <module fileurl="file://$PROJECT_DIR$/W4/W4.iml" filepath="$PROJECT_DIR$/W4/W4.iml" />
       <module fileurl="file://$PROJECT_DIR$/W5/W5.iml" filepath="$PROJECT_DIR$/W5/W5.iml" />
